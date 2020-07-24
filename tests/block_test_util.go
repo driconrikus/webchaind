@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/webchain-network/cryptonight"
+	"github.com/driconrikus/cryptonight"
 	"github.com/webchain-network/webchaind/common"
 	"github.com/webchain-network/webchaind/core"
 	"github.com/webchain-network/webchaind/core/state"

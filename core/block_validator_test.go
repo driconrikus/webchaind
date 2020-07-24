@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/webchain-network/cryptonight"
+	"github.com/driconrikus/cryptonight"
 
 	"github.com/webchain-network/webchaind/common"
 	"github.com/webchain-network/webchaind/core/state"

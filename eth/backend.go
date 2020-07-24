@@ -27,7 +27,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/webchain-network/cryptonight"
+	"github.com/driconrikus/cryptonight"
 	"github.com/webchain-network/webchaind/accounts"
 	"github.com/webchain-network/webchaind/common"
 	"github.com/webchain-network/webchaind/common/compiler"

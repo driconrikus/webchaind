@@ -228,7 +228,7 @@ var severityName = []string{
 // matching vmodule filters.
 var trimPrefixes = []string{
 	"/github.com/webchain-network/webchaind",
-	"/github.com/webchain-network/cryptonight",
+	"/github.com/driconrikus/cryptonight",
 }
 
 func trimToImportPath(file string) string {
